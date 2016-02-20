@@ -1,0 +1,13 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+#canvas{
+	border: 1px solid black;
+}
+#canvas2{
+	border: 1px solid red;
+	position: absolute;
+	top:200px;
+	left: 0;
+} 
